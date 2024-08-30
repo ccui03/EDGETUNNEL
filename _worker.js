@@ -1,7 +1,7 @@
 // @ts-ignore
 import { connect } from 'cloudflare:sockets';
 //伪装主页设置
-let token= 'vless';
+let token= 'tunnel003';
 let pdomain = 'www.bing.com';
 //uuid设置
 let userID = '6971f1e1-a60e-4b48-8da7-18fd0b0d2147';
