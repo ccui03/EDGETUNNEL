@@ -4,7 +4,7 @@ import { connect } from 'cloudflare:sockets';
 let token= 'vless';
 let pdomain = 'www.bing.com';
 //uuid设置
-let userID = 'd342d11e-d424-4583-b36e-524ab1f0afa4';
+let userID = '6971f1e1-a60e-4b48-8da7-18fd0b0d2147';
 //订阅器设置
 let RproxyIP = 'true';
 let sub = 'vless-4ca.pages.dev';
